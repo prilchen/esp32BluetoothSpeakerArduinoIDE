@@ -15,4 +15,4 @@ Titel, Artist und Album sind somit möglich, während der Wiedergabe zu sehen.
 
 Weitere Details auf meiner Webseite:
 
-https://prilchen.de/esp32-projekt-selbst-ein-bluetooth-lautsprecher-erstellen/
+https://prilchen.de/esp32-projekt-selbst-ein-bluetooth-lautsprecher-erstellen
