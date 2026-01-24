@@ -1,4 +1,4 @@
-# esp32BluetoothSpeaker
+# esp32BluetoothSpeaker mit Arduino IDE 
 
 In diesem Tutorial beschreibe ich, den Bau eines Bluetooth-Lautsprechers mit einem ESP32 Mikrocontroller, einem MAX98357 I2S Digital-Analog-Wandler und einem 4 Ohm Lautsprecher.
 
