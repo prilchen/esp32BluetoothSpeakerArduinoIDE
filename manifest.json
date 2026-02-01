@@ -1,0 +1,13 @@
+{
+  "name": "ESP32 Prilchen Bluetooth Box",
+  "version": "1.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "esp32_bt_backup.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
